@@ -1,5 +1,10 @@
 # cpp-reading-card
 
+> **已迁入合集**：[senqi-lin/agent-skills](https://github.com/senqi-lin/agent-skills) 的 `skills/cpp-reading-card/`，完整历史一并带过去了。
+> 新装请用 `npx skills add senqi-lin/agent-skills@cpp-reading-card -g`。
+>
+> 这个仓库保留着，是为了让已经存在的安装链接与 clone 继续可用，不再单独更新。
+
 把大型 C++ 工程里的**一个函数**，读成一张单文件 HTML 阅读卡：隐式输入输出、写入点、阈值链、所有权、自检题。
 
 不是文档生成器。文档回答「它做了什么」，这张卡回答**「它的边界在哪，我改哪一行会炸」**。
